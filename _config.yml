@@ -22,13 +22,13 @@ title: Projekt-Null
 email: info@projekt-null.de
 description: >- # this means to ignore newlines until "baseurl:"
   Die Open Source Modellbahn Initiative für Spur 0
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.projekt-null.de" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: projekt-null
 
 # Build settings
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
 # Exclude from processing.
@@ -50,3 +50,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+lang: de-DE
