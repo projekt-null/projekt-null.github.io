@@ -1,4 +1,4 @@
-name: Build and deploy Jekyll site to GitHub Pages
+name: build-and-deploy-jekyll-site
 
 on:
   push:
@@ -6,10 +6,13 @@ on:
       - master # or main after October 2020
 
 jobs:
-  github-pages:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
+      - uses: helaili/jekyll-action@2.0.5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: "gh-pages"
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          JEKYLL_ENV: production
