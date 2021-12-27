@@ -15,7 +15,7 @@ machen. Aber meine Tätigkeiten weckten offensichtlich reges Interesse.
 Da ich nicht zu den Geheimnisskrämern zähle und gerne meine Arbeit teile, habe
 ich dazu aufgerufen mich zu kontaktieren, falls Interesse besteht.
 Verbergen wollte ich nichts, aber einfach so öffentlich stellen, kam für mich
-auch nicht in Frage! Aber wie das so ist, beim Austauschen untereinander, dauert
+auch nicht in Frage. Aber wie das so ist, beim Austauschen untereinander, dauert
 es nicht lange bis die Frage kommt: Kannst du mal...
 
 Klar kann ich was verändern, hochladen und teilen, aber irgendwann artet es in
@@ -51,7 +51,7 @@ Daten. Open Source lebt von der Gemeinschaft. Jeder trägt im Rahmen seine
 Möglichkeiten zum Erfolg des Projekts bei. Und weil es kostenlos ist, hat jeder
 etwas davon, selbst die kommerziellen Anbieter!
 
-Tja... nun sind wir soweit! Meine Konstruktionsdaten sind offen gelegt. Jetzt
+Tja... nun sind wir soweit. Meine Konstruktionsdaten sind offen gelegt. Jetzt
 liegt es auch an euch, was wir daraus machen. 
 
 Grüße Djordje (aka Tschokko)
