@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /impressum/
 title: "Impressum"
 layout: single
 classes: wide
@@ -23,5 +23,5 @@ Bergstr. 20<br/>
 <br/>
 Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a>
 
-<a href="/privacy-policy/" class="btn btn--info">Weiter zur Datenschutzerklärung <i class="fas fa-solid fa-arrow-right"></i></a>
+<a href="/datenschutz/" class="btn btn--info">Weiter zur Datenschutzerklärung <i class="fas fa-solid fa-arrow-right"></i></a>
 

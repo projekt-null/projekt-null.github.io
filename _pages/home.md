@@ -13,18 +13,18 @@ excerpt: >
 # <small>Blaaa Blaaa Blaaa</small>
 feature_row:
   - title: "Motivation"
-    excerpt: "Schon wieder ein Spur 0 Anbieter? Nein Danke! Projekt-Null verfolgt keine kommerziellen Absichten, denn Anbieter gibt es mehr als genug. Besser wäre doch, eine Hand wäscht die Andere."
-    url: "/home/motivation/"
+    excerpt: "Schon wieder ein Spur 0 Anbieter? Nein Danke! Projekt-Null verfolgt keine kommerziellen Absichten, denn Anbieter gibt es mehr als genug. Besser wäre doch, man hilft sich einfach untereinander."
+    url: "/start/motivation/"
     btn_class: "btn--primary"
     btn_label: "Mehr lesen..."
   - title: "Ziele"
     excerpt: "Groß denken, klein anfangen! Es ist ja schon ein bisschen was da und kann erheblich mehr werden. Gleise, Module, Gebäude, Modelle, Zubehör... der Zukunft sind jedenfalls keine Grenzen gesetzt."
-    url: "/home/goals/"
+    url: "/start/ziele/"
     btn_class: "btn--primary"
     btn_label: "Mehr lesen..."
   - title: "Kostenlos"
     excerpt: "Mit Hilfe von Open Source stehen alle Daten, für private Zwecke, frei zu Verfügung. Dem Selbstbau, auf Basis der veröffentlichten Konstruktionsdaten, steht also nichts mehr im Wege."
-    url: "/home/free/"
+    url: "/start/kostenlos/"
     btn_class: "btn--primary"
     btn_label: "Mehr lesen..."      
 #   - image_path: /assets/images/home-we-want-you-feature-2.jpg

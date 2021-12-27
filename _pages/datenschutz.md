@@ -1,5 +1,5 @@
 ---
-permalink: /privacy-policy/
+permalink: /datenschutz/
 title: "Datenschutzerklärung"
 layout: single
 classes: wide
