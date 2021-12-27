@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-title: "Der Projekt-Null Blog"
+title: "Der Projekt Null Blog"
 layout: archive
 classes: wide
 ---

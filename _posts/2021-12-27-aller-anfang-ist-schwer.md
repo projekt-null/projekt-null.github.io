@@ -49,9 +49,9 @@ Open Source hat nennenswerte Vorteile. Man teilt öffentlich seine eigene Arbeit
 mit anderen. Entsprechende Lizenzen verhindern den kommerziellen Missbrauch der
 Daten. Open Source lebt von der Gemeinschaft. Jeder trägt im Rahmen seine
 Möglichkeiten zum Erfolg des Projekts bei. Und weil es kostenlos ist, hat jeder
-etwas davon, selbst die kommerziellen Anbieter!
+etwas davon, selbst die kommerziellen Anbieter.
 
-Tja... nun sind wir soweit. Meine Konstruktionsdaten sind offen gelegt. Jetzt
-liegt es auch an euch, was wir daraus machen. 
+Tja... nun ist es soweit. Meine Konstruktionsdaten sind offen gelegt. Jetzt
+liegt es an euch, was wir daraus machen. 
 
 Grüße Djordje (aka Tschokko)

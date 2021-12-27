@@ -13,7 +13,7 @@ excerpt: >
 # <small>Blaaa Blaaa Blaaa</small>
 feature_row:
   - title: "Motivation"
-    excerpt: "Schon wieder ein Spur 0 Anbieter? Nein Danke! Projekt-Null verfolgt keine kommerziellen Absichten, denn Anbieter gibt es mehr als genug. Besser wäre doch, man hilft sich einfach untereinander."
+    excerpt: "Schon wieder ein Spur 0 Anbieter? Nein Danke! Projekt Null verfolgt keine kommerziellen Absichten, denn Anbieter gibt es mehr als genug. Besser wäre doch, man hilft sich einfach untereinander."
     url: "/start/motivation/"
     btn_class: "btn--primary"
     btn_label: "Mehr lesen..."
