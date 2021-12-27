@@ -35,5 +35,4 @@ feature_row:
 #     btn_class: "btn--primary"
 #     btn_label: "Mehr lesen..."  
 ---
-
 {% include feature_row %}
