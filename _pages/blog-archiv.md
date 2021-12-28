@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /blog-archiv/
 title: "Der Projekt Null Blog"
 layout: archive
 classes: wide

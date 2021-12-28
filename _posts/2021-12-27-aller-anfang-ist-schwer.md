@@ -1,8 +1,7 @@
 ---
-layout: single
 title:  "Aller Anfang ist schwer"
-date:   2021-12-27 17:20:20 +0100
-categories: update
+# date:   2021-12-27 17:20:20 +0100
+categories: blog
 ---
 > Nüscht wie Ärjer und Freude!
 
@@ -43,7 +42,7 @@ mal besser hinbekommen als ich?
 Ach ja stimmt, wie war das nochmal mit dem "Kannst du mal..."? Ich tappte quasi in
 mein eigenes Fettnäpfchen. Damit war klar, ich brauche Mitstreiter, um sich
 gegenseitig zu befruchten. Da ich aus der IT-Branche komme, war nichts
-näherliegend als ein Open Source Projekt ins Leben zu rufen. Bitte schön!
+näherliegend als ein Open Source Projekt ins Leben zu rufen. Gesagt getan!
 
 Open Source hat nennenswerte Vorteile. Man teilt öffentlich seine eigene Arbeit
 mit anderen. Entsprechende Lizenzen verhindern den kommerziellen Missbrauch der

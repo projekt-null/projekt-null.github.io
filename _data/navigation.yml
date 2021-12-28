@@ -5,7 +5,7 @@ main:
   - title: "Projekte"
     url: /projekte/
   - title: "Blog"
-    url: /blog/
+    url: /blog-archiv/
   - title: "Kontakt"
     url: /kontakt/
   - title: "Impressum"
@@ -16,6 +16,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+about:
+  - title: Über Projekt Null
+    children:
+      - title: Motiviation
+        url: /ueber/motivation/
+      - title: Ziele
+        url: /ueber/ziele/
+      - title: Kostenlos
+        url: /ueber/kostenlos/
 
 docs:
   - title: Getting Started
