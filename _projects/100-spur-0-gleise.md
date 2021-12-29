@@ -106,5 +106,5 @@ Zusammen gefasst sei soviel gesagt, die Weiche befindet sich noch in aktiver Ent
 - Glp 17
 - Glp 18
 
-haben ihren Weg in die Konstruktion gefunden. Die Veröffentlichung meiner Konstruktionsdaten steht unmittelbar bevor!
+haben ihren Weg in die Konstruktion gefunden. Die Veröffentlichung der Konstruktionsdaten steht unmittelbar bevor!
 
