@@ -20,12 +20,12 @@ main:
 about:
   - title: Über Projekt Null
     children:
-      - title: Motiviation
-        url: /ueber/motivation/
-      - title: Ziele
-        url: /ueber/ziele/
-      - title: Kostenlos
-        url: /ueber/kostenlos/
+      - title: Die Idee
+        url: /ueber/die-idee/
+      - title: Die Ziele
+        url: /ueber/die-ziele/
+      - title: Mitstreiter gesucht!
+        url: /ueber/mitstreiter-gesucht/
 
 docs:
   - title: Getting Started

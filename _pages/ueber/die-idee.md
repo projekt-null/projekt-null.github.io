@@ -1,6 +1,6 @@
 ---
-permalink: /ueber/motivation/
-title: "Motivation"
+permalink: /ueber/die-idee/
+title: "Die Idee"
 layout: single
 classes: wide
 sidebar:
@@ -9,10 +9,10 @@ sidebar:
 Schon wieder ein Spur 0 Anbieter? Nein Danke! Es muss doch andere Mittel geben,
 um seine eigenen und die Wünsche Anderer in die Tat umzusetzen? 
 
-Und damit wären wir auch schon bei der wesentlichen Motivation von Projekt Null.
-Statt alleine und im Verborgenen Sachen für die Spur 0 zu entwickeln, wäre es doch
-viel schöner gemeinsam an den Themen zu arbeiten, die uns interessieren und
-unseren Bedarf decken, ohne dabei kommerzielle Absichten zu verfolgen? 
+Und damit wären wir auch schon bei der Idee von Projekt Null. Statt alleine und
+im Verborgenen Sachen für die Spur 0 zu entwickeln, wäre es doch viel schöner
+gemeinsam an den Themen zu arbeiten, die uns interessieren und unseren Bedarf
+decken, ohne dabei kommerzielle Absichten zu verfolgen? 
 
 
 > Mehr zur Entstehung von Projekt Null findet sich im ersten Blog Eintrag [Aller Anfang ist schwer](/blog/2021/12/27/aller-anfang-ist-schwer.html).
@@ -73,5 +73,5 @@ Source Projekts offen zu legen und der Allgemeinheit zur Verfügung zu stellen.
 Willkommen bei Projekt Null, die Spur 0 Open Source Initiative.
 
 Wohin die Reise führen soll, liegt zweifelsohne an euch! Ein paar Wünsche und
-Anregungen finden sich hier: [Ziele](/ueber/ziele/)
+Anregungen finden sich hier: [Die Ziele](/ueber/die-ziele/)
  

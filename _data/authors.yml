@@ -1,0 +1,11 @@
+Djordje Gladovic:
+  name: "Djordje Gladovic"
+  bio: "Gründer und Initiator von Projekt Null, auch bekannt unter dem Spitznamen Tschokko."
+  avatar: "/assets/images/avatar-djordje-gladovic.jpg"
+  links:
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:djordje.gladovic@projekt-null.de"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.projekt-null.de"

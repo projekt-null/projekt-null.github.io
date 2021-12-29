@@ -1,6 +1,6 @@
 ---
 title:  "Aller Anfang ist schwer"
-# date:   2021-12-27 17:20:20 +0100
+author: "Djordje Gladovic"
 categories: blog
 ---
 > Nüscht wie Ärjer und Freude!
