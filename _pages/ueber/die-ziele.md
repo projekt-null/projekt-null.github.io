@@ -29,7 +29,7 @@ sind vielfältig.
 ## Open Source Spur 0 Gleise
 
 Wie bei jeder Modellbahn startet alles erstmal mit den Gleisen. Insofern ist es
-doch naheliegend, das auch das Projekt Null mit Gleismaterial anfängt. Den
+doch naheliegend, das auch Projekt Null mit Gleismaterial anfängt. Den
 Anfang machen meine Regelspur Streckengleise auf Basis von Holzschwellen und
 eine kompakte Weiche: Die EW 100 1:6,6
 
@@ -60,7 +60,7 @@ genug, meine bisherigen Erfahrungen mit den Laser Gravurmaschinen hier zu
 teilen.
 
 ### Sonstige
-Grundsätzlich aber hat Projekt Null für jedes Spur 0 Thema ein offenes Ohr. Ich
+Grundsätzlich hat Projekt Null für jedes Spur 0 Thema ein offenes Ohr. Ich
 gebe jedenfalls nicht die Marschrichtung vor. Es liegt an euch, eure
 Entwicklungen hier kund zu tun und damit euer Projekt gemeinsam voranzutreiben.
 Der Zukunft sind jedenfalls keine Grenzen gesetzt!
