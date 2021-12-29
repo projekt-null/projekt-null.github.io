@@ -39,18 +39,19 @@ und wollte mich nicht so recht befriedigen. Warum zur Hölle muss ich alles
 selber bauen, wenn es doch so viele begnadete Modellbauer gibt, die das tausend
 mal besser hinbekommen als ich? 
 
-Ach ja stimmt, wie war das nochmal mit dem "Kannst du mal..."? Ich tappte quasi in
+Ach ja stimmt, wie war das nochmal mit dem _Kannst du mal_? Ich tappte quasi in
 mein eigenes Fettnäpfchen. Damit war klar, ich brauche Mitstreiter, um sich
 gegenseitig zu befruchten. Da ich aus der IT-Branche komme, war nichts
 näherliegend als ein Open Source Projekt ins Leben zu rufen. Gesagt getan!
 
 Open Source hat nennenswerte Vorteile. Man teilt öffentlich seine eigene Arbeit
 mit anderen. Entsprechende Lizenzen verhindern den kommerziellen Missbrauch der
-Daten. Open Source lebt von der Gemeinschaft. Jeder trägt im Rahmen seine
+Daten. Open Source lebt von der Gemeinschaft. Jeder trägt im Rahmen seiner
 Möglichkeiten zum Erfolg des Projekts bei. Und weil es kostenlos ist, hat jeder
-etwas davon, selbst die kommerziellen Anbieter.
+etwas davon, selbst die kommerziellen Anbieter. Aber dazu bei passender
+Gelegenheit mehr.
 
-Tja... nun ist es soweit. Meine Konstruktionsdaten sind offen gelegt. Jetzt
-liegt es an euch, was wir daraus machen. 
+Tja... nun ist es soweit. Meine Konstruktionsdaten sind offen gelegt. Jetzt seit
+ihr gefragt, was wir daraus machen. 
 
-Grüße Djordje (aka Tschokko)
+Grüße Djordje (alias Tschokko)

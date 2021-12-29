@@ -60,9 +60,10 @@ genug, meine bisherigen Erfahrungen mit den Laser Gravurmaschinen hier zu
 teilen.
 
 ### Sonstige
-Grundsätzlich aber hat Projekt Null für jedes Spur 0 Thema ein offenes Ohr. Ich gebe
-jedenfalls nicht die Marschrichtung vor! Es liegt an euch, eure Entwicklungen
-hier kund zu tun und damit euer Projekt gemeinsam voranzutreiben.
+Grundsätzlich aber hat Projekt Null für jedes Spur 0 Thema ein offenes Ohr. Ich
+gebe jedenfalls nicht die Marschrichtung vor. Es liegt an euch, eure
+Entwicklungen hier kund zu tun und damit euer Projekt gemeinsam voranzutreiben.
+Der Zukunft sind jedenfalls keine Grenzen gesetzt!
 
 Wenn ihr Fragen zum Thema Open Source, Open Source Lizenzen, kommerziellen
 Mißbrauch und gemeinsames Vorgehen habt, wendet euch einfach per E-Mail an mich:

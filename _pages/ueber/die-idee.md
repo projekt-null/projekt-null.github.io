@@ -20,7 +20,7 @@ decken, ohne dabei kommerzielle Absichten zu verfolgen?
 ## Wer oder was ist Projekt Null?
 
 Projekt Null ist ein privates Open Source Projekt, das sich der Modellbahn in
-Spur 0 widment. Hinter Projekt Null stehe erstmal ich, Djordje Gladovic aka
+Spur 0 widment. Hinter Projekt Null stehe erstmal ich, Djordje Gladovic alias
 Tschokko. In der Spur 0 Gemeinschaft tummel ich mich erst seit wenigen Jahren.
 In der Modellbahnwelt zähle ich dagegen zu den Unbekannten. Meine letzten
 Berührungen mit der Modellbahn liegen doch schon ein paar Tage zurück. 
