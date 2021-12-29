@@ -13,7 +13,7 @@ Oder auf Deutsch gesagt, groß denken und klein anfangen!
 Im Laufe der Zeit haben sich doch allerhand Entwicklungen rund um das Thema
 Gleise bei mir angehäuft. Im Rahmen des Open Source Projekts werde ich
 sukzessive alle meine Konstruktionsdaten veröffentlichen. Das erste Ziel ist
-kaum zu verleugnen, alternatives Spur 0 Gleismaterial zu etablieren. Regel-
+kaum zu verleugnen, ein alternatives Spur 0 Gleismaterial zu etablieren. Regel-
 und Schmalspur eingeschlossen.
 
 ## Gibt es nicht schon genug Anbieter für Spur 0 Gleise?
@@ -33,7 +33,7 @@ doch naheliegend, das auch das Projekt Null mit Gleismaterial anfängt. Den
 Anfang machen meine Regelspur Streckengleise auf Basis von Holzschwellen und
 eine kompakte Weiche: Die EW 100 1:6,6
 
-Mehr zum Thema Gleise findest du hier: [Projekte / Spur 0 Gleis](/projekte/spur-0-gleis/)
+Mehr zum Thema Gleise findest du hier: [Projekte / Spur 0 Gleise](/projekte/spur-0-gleise/)
 
 ## Ausblicke
 
