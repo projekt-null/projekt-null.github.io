@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Mehr lesen..."
   - title: "Mitstreiter gesucht!"
-    excerpt: "Open Source lebt von der Gemeinschaft, deswegen suche ich Mitstreiter. Die Teilnahme ist nicht verpflichtend. Die Konstruktionsdaten stehen grundsätzlich allen Interessierten frei zur Verfügung."
+    excerpt: "Open Source lebt von der Gemeinschaft, deswegen suche ich Mitstreiter. Die Teilnahme ist jedoch nicht verpflichtend. Die Konstruktionsdaten stehen weiterhin allen Interessierten frei zur Verfügung."
     url: "/ueber/mitstreiter-gesucht/"
     btn_class: "btn--primary"
     btn_label: "Mehr lesen..."      
