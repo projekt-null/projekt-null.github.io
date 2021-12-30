@@ -7,9 +7,8 @@ title: "Spur 0 Gleise"
 # toc: true
 ---
 
-Die aktuellen Konstruktionsdaten sind im GitHub Repository hinterlegt.
-
-Link: [github.com/projekt-null/Spur_0_Gleise](https://github.com/projekt-null/Spur_0_Gleise) 
+**Info:** Die aktuellen Konstruktionsdateien sind im GitHub Repository [github.com/projekt-null/Spur_0_Gleise](https://github.com/projekt-null/Spur_0_Gleise) hinterlegt. Um das Repository lokal als Gast zu clonen, führe folgendes git-Kommando aus: `git clone https://github.com/projekt-null/Spur_0_Gleise.git`
+{: .notice--info}
 
 ## Vorwort
 Es ist mir ein persönliches Anliegen auf die Gleise und Weichen von Michael Weinert hinzuweisen. Im Rahmen einer FREMO Initiative wurden maßstäbliche Gleise und Weichen für die Spur 0 Gruppe entwickelt. Die Qualität der Bausätze ist sagenhaft gut! Das _Projekt Null Spur 0 Gleise_ Vorhaben hat nicht zum Ziel in Konkurrenz zu Michael Weinert zu stehen. Wer eine maßstäbliche Spur 0 Modelleisenbahn im Sinn hat, dem kann ich nur die Mitgliedschaft beim [FREMO](https://www.fremo-net.eu) nahelegen und damit dem Zugang zu den Bausätzen von Michael Weinert. Darüber hinaus ist es im Sinne aller, Doppelentwicklungen weitestgehend zu vermeiden!
@@ -29,5 +28,4 @@ Folgende Geometrie wird bei den Konstruktionsdaten angenommen:
 ### K-Modul-System
 Beim K-Modul-System handelt es sich um Rippenplatten, vergleichbar mit Rp16 Rippenplatten im Vorbild, die im Plastik-Spritzgußverfahren hergestellt werden. Die Rippenplatten verfügen über zwei Stifte zum Einsetzen in die Schwellen. Die Stifte messen im Durchmesser 1,5mm und der Abstand beträgt von Mittelpunkt zu Mittelpunkt 6mm. Die Rippenplatten sind nicht geneigt und eignen sich hervorragend zur Aufnahme der Hassler Schienenprofile. Der Plastik-Spritzguß sorgt außerdem für einen stabilen Halt der Schienenprofile.
 
-![Hassler-K-Modul-System](/assets/images/projekte/spur-0-gleise/hassler-k-modul-system.gif)
-_Quelle: [Hassler-Profile](https://www.hassler-profile.li/)_
+{% include figure image_path="/assets/images/projekte/spur-0-gleise/hassler-k-modul-system.gif" alt="Hassler-K-Modul-System" caption="Quelle: [Hassler-Profile](https://www.hassler-profile.li/)" %}

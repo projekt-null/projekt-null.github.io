@@ -3,6 +3,9 @@ permalink: /projekte/spur-0-gleise/regelspur-gleise-und-schablonen/
 title: "Spur 0 Gleise"
 ---
 
+**Info:** Die aktuellen Konstruktionsdateien sind im GitHub Repository [github.com/projekt-null/Spur_0_Gleise](https://github.com/projekt-null/Spur_0_Gleise) hinterlegt. Um das Repository lokal als Gast zu clonen, führe folgendes git-Kommando aus: `git clone https://github.com/projekt-null/Spur_0_Gleise.git`
+{: .notice--info}
+
 ## Regelspur Gleise
 
 ### Holzschwellen
@@ -13,7 +16,8 @@ Zu Grunde liegen:
 
 ![Konstruktion Holzschwelle 2600mm](/assets/images/projekte/spur-0-gleise/konstruktion-holzschwelle-2600mm.png)
 
-> **Anmerkung**: Die Länge der Holzschwellen entspricht den Abmessungen von Michael Weinert und [Hegob](http://www.hegob.de/), trotz minimaler Abweichung von 0,2mm.
+**Info:** Die Länge der Holzschwellen entspricht exakt den Abmessungen von Michael Weinert und [Hegob](http://www.hegob.de/) Schwellen, trotz minimaler Abweichung von 0,2mm.
+{: .notice--info}
 
 Die hinterlegte Autodesk Fusion 360 Datei lässt sich allerdings vollständig über Parameter verändern. Abweichende Abmessungen sind somit jederzeit möglich.
 
@@ -23,7 +27,8 @@ Die Parameter erlauben zudem die Angabe von Toleranzen. Gerade in Verbindung mit
 
 Grundsätzlich empfiehlt es sich erstmal die Abmessungen der Schwellen, Bohrungen und Spurweite auf die Norm bzw. die maßstäblichen Werte zu setzen. Auf Basis dieser Daten wird dann dann ein erstes Modell hergestellt. Im Anschluß wird das Modell vermessen und die entsprechenden Toleranzen den Parametern hinzugefügt.
 
-> **Info**: Das Schwellenband bedarf hingegen noch einer Überarbeitung. Es sind unnötige Verfahrwege beim Laser-Cut enthalten. Die Schwellen lassen sich aber auch über CNC fräsen. Eine entsprechende Konstruktionsdatei, mit Angabe des Fräser Durchmessers, ist in Planung.
+**Achtung:** Das Schwellenband bedarf hingegen noch einer Überarbeitung. Es sind unnötige Verfahrwege beim Laser-Cut enthalten. Die Schwellen lassen sich grundsätzlich, auf Basis der aktuellen Konstruktionsdateien, auch über CNC fräsen. Eine erweiterte Konstruktionsdatei mit Angabe des Fräser Durchmessers ist bereits in Planung.
+{: .notice--warning}
 
 ![Konstruktion Holzschwelle Parameter](/assets/images/projekte/spur-0-gleise/konstruktion-holzschwellen-band.png)
 

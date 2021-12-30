@@ -15,7 +15,8 @@ gemeinsam an den Themen zu arbeiten, die uns interessieren und unseren Bedarf
 decken, ohne dabei kommerzielle Absichten zu verfolgen? 
 
 
-> Mehr zur Entstehung von Projekt Null findet sich im ersten Blog Eintrag [Aller Anfang ist schwer](/blog/2021/12/27/aller-anfang-ist-schwer.html).
+**Info:** Mehr zur Entstehung von Projekt Null findet sich im ersten Blog Eintrag [Aller Anfang ist schwer](/blog/2021/12/27/aller-anfang-ist-schwer.html).
+{: .notice--info}
 
 ## Wer oder was ist Projekt Null?
 

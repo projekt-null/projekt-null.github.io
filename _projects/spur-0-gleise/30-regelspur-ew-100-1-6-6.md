@@ -3,7 +3,13 @@ permalink: /projekte/spur-0-gleise/regelspur-ew-100-1-6-6/
 title: "Spur 0 Gleise"
 ---
 
+**Info:** Die aktuellen Konstruktionsdateien sind im GitHub Repository [github.com/projekt-null/Spur_0_Gleise](https://github.com/projekt-null/Spur_0_Gleise) hinterlegt. Um das Repository lokal als Gast zu clonen, führe folgendes git-Kommando aus: `git clone https://github.com/projekt-null/Spur_0_Gleise.git`
+{: .notice--info}
+
 ## Regelspur Weiche EW 100 1:6,6
+
+**Achtung:** Die Konstruktionsdateien zur nachfolgenden Weiche haben noch nicht den Weg in das GitHub Repository gefunden. Das Update erfolgt in Kürze!
+{: .notice--warning}
 
 Die meisten Spur 0 Weichen fallen entweder zu kurz oder zu lang aus, oder müssen in Form der Nagel- oder Löttechnik mühsam zusammen gebaut werden. Die Nachbildungen der vielen unterschiedlichen Rippenplatten kommen ebenfalls bei den Bausätzen viel zu kurz. Alles in allem ein eher unbefriedigendes Angebot. Dem Wunsch nach einer Weiche mit vorbildlicher Anmutung, feiner Detaillierung und Modellbahn-tauglichen Abmessungen musste einfach nachgegangen werden!
 
@@ -28,5 +34,4 @@ Zusammen gefasst sei soviel gesagt, die Weiche befindet sich noch in aktiver Ent
 - Glp 17
 - Glp 18
 
-haben ihren Weg in die Konstruktion gefunden. Die Veröffentlichung der Konstruktionsdaten steht unmittelbar bevor!
-
+haben ihren Weg in die Konstruktion gefunden.
