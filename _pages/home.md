@@ -36,3 +36,8 @@ feature_row:
 #     btn_label: "Mehr lesen..."  
 ---
 {% include feature_row %}
+
+<h2>Neuigkeiten</h2>
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
