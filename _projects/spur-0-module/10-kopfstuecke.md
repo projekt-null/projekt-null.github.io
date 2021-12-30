@@ -1,10 +1,10 @@
 ---
-permalink: /projekte/spur-0-module/
+permalink: /projekte/spur-0-module/kopfstuecke/
 title: "Spur 0 Module"
-excerpt: "Kopfstücke und Module gemäß aktueller Normen"
-header:
-  teaser: /assets/images/projekte-module-header.png
-toc: true
+# excerpt: "Kopfstücke und Module gemäß aktueller Normen"
+# header:
+#   teaser: /assets/images/projekte-module-header.png
+# toc: true
 ---
 Die aktuellen Konstruktionsdaten sind im GitHub Repository hinterlegt.
 
