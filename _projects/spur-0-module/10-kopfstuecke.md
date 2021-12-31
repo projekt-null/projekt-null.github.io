@@ -13,3 +13,4 @@ Kofpstücke für den Modulbau sind in der Regel genormt. Die entsprechenden Abme
 Geeignete Mittel sind das Laser-Cut Verfahren oder CNC-Fräsen. 
 
 **Info:** Der Bereich Kopfstücke befindet sich noch in einem frühen Stadium. Mittelfristig sollten hier alle bekannten Normen in Form von Konstruktionsdateien vorliegen. Wahlweise für Laser-Cut und CNC-Fräsen. Beim CNC-Fräsen sollten unbedingt Abrundungen vorgesehen werden. Ein Beispiel folgt in Kürze.
+{: .notice--info}
