@@ -31,7 +31,7 @@ Geeignete Mittel sind das Laser-Cut Verfahren oder CNC-Fräsen.
   {{ fremo-600mm-downloads | markdownify }}
 </div>
 
-#### FREMO Spur 0 Norm, 400mm Breite, eingleisig, symmetrisch**
+#### FREMO Spur 0 Norm, 400mm Breite, eingleisig, symmetrisch
 ![FREMO Spur 0 Norm, 400mm Breite, eingleisig, symmetrisch](/assets/images/projekte/spur-0-module/fremo-spur-0-norm-400mm.png)
 
 {% capture fremo-400mm-downloads %}
@@ -47,7 +47,7 @@ Geeignete Mittel sind das Laser-Cut Verfahren oder CNC-Fräsen.
 
 #### FREMO Spur 0 Entwurf, 689mm Breite, zweigleisig, symmetrisch
 
-**Warnung:** Zweigleisige Hauptstrecken Module sind nicht Teil der aktuellen FREMO-Norm. Der Gleismittenabstand beträgt aktuell 89mm und entspricht 4 Meter im Vorbild. Die Bohrungen sind so ausgelegt, das wahlweise an die linke oder rechte Schiene ein FREMO genormtes eingleisiges Modul angeschlossen werden kann.
+**Warnung:** Zweigleisige Hauptstrecken Module sind nicht Teil der aktuellen FREMO Norm. Der Gleismittenabstand beträgt 89mm und entspricht 4 Meter im Vorbild. Die Bohrungen sind so ausgelegt, das wahlweise an die linke oder rechte Schiene ein FREMO genormtes eingleisiges Modul angeschlossen werden kann.
 {: .notice--warning}
 
 ![FREMO Spur 0 Entwurf, 689mm Breite, zweigleisig, symmetrisch](/assets/images/projekte/spur-0-module/fremo-spur-0-entwurf-2gl-689mm.png)
