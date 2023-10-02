@@ -1,0 +1,53 @@
+I"�<p class="notice--info"><strong>Info:</strong> Die aktuellen Konstruktionsdateien sind im GitHub Repository <a href="https://github.com/projekt-null/Spur_0_Gleise">github.com/projekt-null/Spur_0_Gleise</a> hinterlegt. Um das Repository lokal als Gast zu clonen, führe folgendes git-Kommando aus: <code class="language-plaintext highlighter-rouge">git clone https://github.com/projekt-null/Spur_0_Gleise.git</code></p>
+
+<h2 id="regelspur-gleise">Regelspur Gleise</h2>
+
+<h3 id="holzschwellen">Holzschwellen</h3>
+<p>Zu Grunde liegen:</p>
+<ul>
+  <li>Spurweite von 32mm</li>
+  <li>Einsatz von K-Modul-System Rippenplatten</li>
+  <li>Holzschwellen in den Abmessungen von 58x5,8mm (entspricht 2,6m im Vorbild)</li>
+</ul>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/konstruktion-holzschwelle-2600mm.png" alt="Konstruktion Holzschwelle 2600mm" /></p>
+
+<p class="notice--info"><strong>Info:</strong> Die Länge der Holzschwellen entspricht exakt den Abmessungen von Michael Weinert und <a href="http://www.hegob.de/">Hegob</a> Schwellen, trotz minimaler Abweichung von 0,2mm.</p>
+
+<p>Die hinterlegte Autodesk Fusion 360 Datei lässt sich allerdings vollständig über Parameter verändern. Abweichende Abmessungen sind somit jederzeit möglich.</p>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/konstruktion-holzschwelle-parameter.png" alt="Konstruktion Holzschwelle Parameter" /></p>
+
+<p>Die Parameter erlauben zudem die Angabe von Toleranzen. Gerade in Verbindung mit Hobby Laser-Gravurmaschinen fallen die Schnittweiten in der Horizontalen und Vertikalen unterschiedlich groß aus. Diese Abweichungen können über die Parameter besser gesteuert werden. Ebenso gilt es auch die Spurweite von 32mm exakt einzuhalten, lieber etwas mehr zugeben und niemals die 32mm unterschreiten! Je nach eingesetztem Schienenprofil (Hassler, Hegob oder Peco Code 143) sind immer entsprechende Abweichungen vorzusehen.</p>
+
+<p>Grundsätzlich empfiehlt es sich erstmal die Abmessungen der Schwellen, Bohrungen und Spurweite auf die Norm bzw. die maßstäblichen Werte zu setzen. Auf Basis dieser Daten wird dann dann ein erstes Modell hergestellt. Im Anschluß wird das Modell vermessen und die entsprechenden Toleranzen den Parametern hinzugefügt.</p>
+
+<p class="notice--warning"><strong>Achtung:</strong> Das Schwellenband bedarf hingegen noch einer Überarbeitung. Es sind unnötige Verfahrwege beim Laser-Cut enthalten. Die Schwellen lassen sich grundsätzlich, auf Basis der aktuellen Konstruktionsdateien, auch über CNC fräsen. Eine erweiterte Konstruktionsdatei mit Angabe des Fräser Durchmessers ist bereits in Planung.</p>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/konstruktion-holzschwellen-band.png" alt="Konstruktion Holzschwelle Parameter" /></p>
+
+<h3 id="schablonen-für-holzschwellen">Schablonen für Holzschwellen</h3>
+<p>Zum einfachen Verlegen der Holzschwellen stehen derzeit zwei Schablonen zur Verfügung.</p>
+<ul>
+  <li>15 Meter gerades Joch nach DRG-Richtlinie</li>
+  <li>15 Meter gebogenes Joch nach DRG-Richtlinie</li>
+</ul>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/konstruktion-schablone-15m-gerade.png" alt="Konstruktion Holzschwelle Parameter" /></p>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/konstruktion-schablone-15m-gebogen.png" alt="Konstruktion Holzschwelle Parameter" /></p>
+
+<p>Auch hier kommen wieder Parameter zum Einsatz. Grundsätzlich empfiehlt es sich den Schwellenaussparungen mindestens 0,2mm Toleranz zuzugeben! Andernfalls klemmen die Schwellen.</p>
+
+<h4 id="15-meter-gerade">15 Meter Gerade</h4>
+
+<p>Beim geraden 15-Meter Joch können die Schwellenabstände gemäß eigener Wünsche entsprechend verändert werden. Auch abweichende Schwellenabmessungen sind möglich. Über die Angabe der Schotter-/Trassenbrettbreite, kann die Breite der Schablone, damit der Rand, verändert werden. Sofern Module gebaut werden, empfiehlt es sich die Trassen-/Schotterbettbreite der Modulnorm zu verwenden. In der aktuelle Fassung der FREMO Spur 0 Norm beträgt der Wert 68mm.</p>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/konstruktion-schablone-15m-gerade-parameter.png" alt="Konstruktion Holzschwelle Parameter" /></p>
+
+<h4 id="15-meter-gebogen">15 Meter Gebogen</h4>
+
+<p>Bei den gebogenen Schablonen kann über die Parameter noch der Bogenradius, gemäß eigener Wünsche, angepasst werden. Selbst der Lenz R2 Radius erlaubt eine maßstäblich Schwelleneinteilung.</p>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/konstruktion-schablone-15m-gebogen-parameter.png" alt="Konstruktion Holzschwelle Parameter" /></p>
+:ET

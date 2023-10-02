@@ -1,0 +1,27 @@
+I"x<p class="notice--info"><strong>Info:</strong> Die aktuellen Konstruktionsdateien sind im GitHub Repository <a href="https://github.com/projekt-null/Spur_0_Gleise">github.com/projekt-null/Spur_0_Gleise</a> hinterlegt. Um das Repository lokal als Gast zu clonen, führe folgendes git-Kommando aus: <code class="language-plaintext highlighter-rouge">git clone https://github.com/projekt-null/Spur_0_Gleise.git</code></p>
+
+<h2 id="vorwort">Vorwort</h2>
+<p>Es ist mir ein persönliches Anliegen auf die Gleise und Weichen von Michael Weinert hinzuweisen. Im Rahmen einer FREMO Initiative wurden maßstäbliche Gleise und Weichen für die Spur 0 Gruppe entwickelt. Die Qualität der Bausätze ist sagenhaft gut! Das <em>Projekt Null Spur 0 Gleise</em> Vorhaben hat nicht zum Ziel in Konkurrenz zu Michael Weinert zu stehen. Wer eine maßstäbliche Spur 0 Modelleisenbahn im Sinn hat, dem kann ich nur die Mitgliedschaft beim <a href="https://www.fremo-net.eu">FREMO</a> nahelegen und damit dem Zugang zu den Bausätzen von Michael Weinert. Darüber hinaus ist es im Sinne aller, Doppelentwicklungen weitestgehend zu vermeiden!</p>
+
+<p><em>Djordje Gladovic am 29.12.2021</em></p>
+
+<h2 id="einführung">Einführung</h2>
+<p>Die Grundlage aller bisherigen Entwicklungen basieren auf dem <a href="https://www.hassler-profile.li/index.php/weichen-gleiseprogramm/gleisbau-und-zubehoer-spur-0">Hassler 3,5mm Schienenprofil</a> und den K-Modul-System Rippenplatten, ebenfalls erhältlich bei <a href="https://www.hassler-profile.li/index.php/weichen-gleiseprogramm/k-modul-system-spur0">Hassler-Profile</a>.</p>
+
+<h3 id="schienenprofil">Schienenprofil</h3>
+<p>Das Schienenprofil ist ein guter Kompromiss zwischen maßstäblichen S49 Schienen und modernen Varianten der Epochen 3 und 4. Darüber hinaus ist das Hassler Schienenprofil in der Spur 0 weit verbreitet, auch bekannt unter Schuller oder 0-Scale-Models.</p>
+
+<p>Folgende Geometrie wird bei den Konstruktionsdaten angenommen:</p>
+
+<p><img src="/assets/images/projekte/spur-0-gleise/hassler-schienenprofil-geometrie.png" alt="Hassler-Schienenprofil-Geometrie" /></p>
+
+<h3 id="k-modul-system">K-Modul-System</h3>
+<p>Beim K-Modul-System handelt es sich um Rippenplatten, vergleichbar mit Rp16 Rippenplatten im Vorbild, die im Plastik-Spritzgußverfahren hergestellt werden. Die Rippenplatten verfügen über zwei Stifte zum Einsetzen in die Schwellen. Die Stifte messen im Durchmesser 1,5mm und der Abstand beträgt von Mittelpunkt zu Mittelpunkt 6mm. Die Rippenplatten sind nicht geneigt und eignen sich hervorragend zur Aufnahme der Hassler Schienenprofile. Der Plastik-Spritzguß sorgt außerdem für einen stabilen Halt der Schienenprofile.</p>
+
+<figure class="">
+  <img src="/assets/images/projekte/spur-0-gleise/hassler-k-modul-system.gif" alt="Hassler-K-Modul-System" /><figcaption>
+      Quelle: <a href="https://www.hassler-profile.li/">Hassler-Profile</a>
+
+    </figcaption></figure>
+
+:ET

@@ -4,11 +4,11 @@ minimal_mistakes_skin: "default"
 
 # Site settings
 title: Projekt Null
-subtitle: "Die Spur 0 Open Source Initiative"
+subtitle: "Schöner Module im Maßstab 1:45"
 name: Djordje Gladovic
 email: info@projekt-null.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Die Open Source Modellbahn Initiative für Spur 0
+  Schöner Module im Maßstab 1:45
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.projekt-null.de" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -25,10 +25,10 @@ breadcrumb_separator: ">"
 
 # Site Footer
 footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/projekt-null"
+  #links:
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/projekt-null"
 
 # Reading Files
 include:
